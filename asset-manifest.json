@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Morden_react_class/static/js/main.7c8bbe63.chunk.js",
+    "main.js.map": "/Morden_react_class/static/js/main.7c8bbe63.chunk.js.map",
+    "runtime-main.js": "/Morden_react_class/static/js/runtime-main.623d5edf.js",
+    "runtime-main.js.map": "/Morden_react_class/static/js/runtime-main.623d5edf.js.map",
+    "static/js/2.668cfbd4.chunk.js": "/Morden_react_class/static/js/2.668cfbd4.chunk.js",
+    "static/js/2.668cfbd4.chunk.js.map": "/Morden_react_class/static/js/2.668cfbd4.chunk.js.map",
+    "index.html": "/Morden_react_class/index.html",
+    "static/js/2.668cfbd4.chunk.js.LICENSE.txt": "/Morden_react_class/static/js/2.668cfbd4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623d5edf.js",
+    "static/js/2.668cfbd4.chunk.js",
+    "static/js/main.7c8bbe63.chunk.js"
+  ]
+}
